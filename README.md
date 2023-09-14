@@ -5,6 +5,7 @@ Hacking fundamentals and where to start
 Table of Contents
 - [WorkFlow](#workflow)
   - [The basics](#the-basics)
+- [Tutorials](#tutorials)
   - [Linux Fundamentals](#linux-fundamentals)
   - [Network exploitation](#network-exploitation)
   - [Web Exploitation](#web-exploitation)
@@ -32,14 +33,16 @@ Table of Contents
 | 8.   | [OWASP Juice Shop]                            |
 | 9.   | [Network exploitation](#network-exploitation) |
 | 10.  | [Web Exploitation](#web-exploitation)         |
-| 11.  | [Metasploit: Introduction]                    |
+| 11.  | [Metasploit](#metasploit)                     |
 | 12.  | [Vulnversity]                                 |
 | 13.  | [Basic Pentesting]                            |
 | 14.  | [Rooms](#rooms)                               |
 
+## Tutorials
+You can skip any of the tutorials if you don't wanna learn them.
 
 ### Linux Fundamentals
-If you want to use Linux you use this workflow. If not you can skip it.
+Learn Linux because it's better than Windows.
 | Tutorial                    | Tags                                                                                    |
 | --------------------------- | --------------------------------------------------------------------------------------- |
 | [Linux Fundamentals Part 1] | Filesystem, Search File, Shell Operators                                                |
